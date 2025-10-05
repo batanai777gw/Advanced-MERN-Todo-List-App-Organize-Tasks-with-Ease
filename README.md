@@ -8,5 +8,5 @@ A full-stack MERN application (MongoDB, Express, React, Node) that helps users s
 2. Track priority, status, and due dates
 3. Clean, responsive, and user-friendly interface
 4. Clear task categorization for better organization
-
-Perfect example of a modern CRUD app built with the MERN stack, showcasing full-stack development skills and practical UI/UX design.
+5. 
+Mmodern CRUD app built with the MERN stack, showcasing full-stack development skills.
